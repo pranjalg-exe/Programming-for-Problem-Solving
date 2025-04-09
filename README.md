@@ -39,5 +39,4 @@ A curated collection of solved problems and concepts from the **Programming for 
 
 ---
 
-## 📁 Folder Structure
 
