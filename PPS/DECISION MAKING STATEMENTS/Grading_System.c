@@ -19,8 +19,8 @@ int main(){
     else if(perc<80 && perc>=60){
         printf("C");
     }
-    else if(perc<60){
-        printf("C");
+    else{
+        printf("D");
     }
     return 0;
 
